@@ -282,9 +282,6 @@ public class MainWin
 			System.out.println("HeaderSet created");
 			
 			System.out.println("Creating operation object...");
-			//////  ERROR here 
-			/// cannot create operation object
-			///IO exception session not connected
 			Operation op = cs.put(hsOp);
 			System.out.println("operation object created");
 			
