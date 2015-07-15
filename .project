@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>InnoBluetooth</name>
+=======
+	<name>Bluetooth</name>
+>>>>>>> b300d574014d9d1719fcaca696a9966f6eecb15e
 	<comment></comment>
 	<projects>
 	</projects>
