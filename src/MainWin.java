@@ -5,6 +5,7 @@
 					service discovery = tested OK
 					communication = tetsed OK
  */
+//test
 
 
 import java.io.BufferedReader;
